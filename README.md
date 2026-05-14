@@ -4,6 +4,8 @@ A minimal but complete Industrial Control Systems (ICS) security lab built on a 
 
 Built as a hands-on portfolio project for ICS/OT security roles.
 
+**GitHub:** https://github.com/samson-2369/ics-lab-proxmox
+
 ---
 
 ## Architecture
